@@ -52,11 +52,14 @@ a {
 	text-decoration: none;
 }
 a:hover {
-	border-bottom: 1px solid currentColor;
+	text-decoration: underline;
 }
 img {
 	max-width: 100%;
 	height: auto;
+}
+time {
+	opacity: .6;
 }
 
 /**
@@ -65,11 +68,15 @@ img {
 
 /* Header */
 .site-title {
-	font-size: 1.2599em;
-	margin-bottom: calc(5 * var(--space));
 	display: block;
-	border-bottom: none;
+	margin-bottom: calc(2 * var(--space));
 	color: inherit;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+}
+.site-title:hover {
+	text-decoration: none;
 }
 
 /* Post list */
@@ -90,14 +97,14 @@ img {
 }
 .posts a {
 	color: inherit;
-	border-bottom: none;
 }
 .posts a:hover {
 	color: var(--color-accent);
-	border-bottom: none;
+	text-decoration: none;
 }
 
 /* Single post */
+article,
 header {
 	margin-bottom: calc(4 * var(--space));
 }
