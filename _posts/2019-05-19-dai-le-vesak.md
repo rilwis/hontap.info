@@ -2,7 +2,7 @@
 title: Đại lễ Vesak
 ---
 
-Đây là lần thứ 2 mình tham gia một buổi lễ Phật giáo, sau lễ [dâng y năm ngoái](https://hontap.info/p/le-dang-y-dau-tien). Lần này có 1 kỷ niệm đáng nhớ là thời tiết thì nóng cực điểm mà điều hoà ở chùa thì bị hỏng!
+Đây là lần thứ 2 mình tham gia một buổi lễ Phật giáo, sau lễ [dâng y năm ngoái](/le-dang-y-dau-tien/). Lần này có 1 kỷ niệm đáng nhớ là thời tiết thì nóng cực điểm mà điều hoà ở chùa thì bị hỏng!
 
 Tuy vậy, nhưng mình và mọi người cũng không nổi tâm sân. Mọi người rất bình tĩnh, nhẹ nhàng, nói chuyện, trao đổi pháp và rất nghiêm trang.
 
