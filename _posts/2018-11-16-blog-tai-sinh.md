@@ -1,5 +1,5 @@
 ---
-title: Tái sinh
+title: Blog tái sinh
 ---
 
 Lâu lắm rồi mới có cảm giác như vậy!
@@ -20,3 +20,7 @@ Xong giai đoạn 2 của blog, với 3 thay đổi chính:
 - Chuyển sang giao diện tối, cả back end và front end.
 - Đổi luôn cả layout back end để phần soạn thảo bài viết nhìn đẹp hơn. Dùng thêm CodeMirror cho phần soạn thảo markdown trong back end.
 - Sửa lại cấu trúc của app PHP, không tách thành framework nữa.
+
+**Update 08/09/2018:**
+
+Chuyển toàn bộ blog sang Github Pages và bỏ topic cho đơn giản.

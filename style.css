@@ -28,13 +28,13 @@ h1, h2, h3 {
 	margin: 1.5em 0 .5em;
 }
 h1 {
-	font-size: 2em;
+	font-size: 34px;
 }
 h2 {
-	font-size: 1.5874em;
+	font-size: 27px;
 }
 h3 {
-	font-size: 1.2599em;
+	font-size: 21px;
 }
 p, blockquote, hr {
 	margin: 0 0 1.6em;
@@ -73,7 +73,7 @@ time {
 	color: inherit;
 	font-weight: 700;
 	text-transform: uppercase;
-	letter-spacing: 6px;
+	letter-spacing: 4px;
 }
 .site-title:hover {
 	text-decoration: none;
@@ -118,6 +118,12 @@ h1 {
 .entry-content h3 {
 	border-bottom: var(--border);
 	padding-bottom: .25em;
+}
+.back {
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 2px;
 }
 
 /* Responsive */
