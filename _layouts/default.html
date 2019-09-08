@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="vi">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>{{ page.title }} - {{ site.title }}</title>
+        <link rel="stylesheet" href="/style.css">
+    </head>
+    <body>
+        <a class="site-title" href="/">{{ site.title }}</a>
+        <main>
+            <article>
+                <header>
+                    <h1>{{ page.title }}</h1>
+                    <time>{{ page.date | date: "%d/%m/%y" }}</time>
+                </header>
+                <div class="entry-content">{{ content }}</div>
+            </article>
+        </main>
+    </body>
+</html>
+

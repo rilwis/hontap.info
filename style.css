@@ -1,0 +1,193 @@
+/**
+ * Base
+ */
+/* Nord theme: https://www.nordtheme.com/ */
+:root {
+  --color-background: #2e3440;
+  --color-text: #eceff4;
+  --color-accent: #ebcb8b;
+  --color-blockquote: #81a1c1;
+  --border: 1px solid #3b4252;
+  --space: 16px;
+}
+
+/* HTML elements */
+body {
+  font-family: Monaco, Consolas, monospace;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-background);
+  margin: 0 auto;
+  max-width: 70ch;
+  padding: 0 var(--space);
+}
+h1, h2, h3 {
+  line-height: 1.25;
+  font-weight: 600;
+  margin: 1.5em 0 .5em;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5874em;
+}
+h3 {
+  font-size: 1.2599em;
+}
+p, blockquote, hr {
+  margin: 0 0 1.6em;
+}
+blockquote {
+  font-style: italic;
+  color: var(--color-blockquote);
+}
+hr {
+  border-top: none;
+  border-bottom: var(--border);
+}
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: 1px solid currentColor;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/**
+ * Components
+ */
+
+/* General classes */
+.text-secondary {
+  opacity: .6;
+}
+
+
+/* Header */
+.header {
+  margin-top: calc(2 * var(--space));
+  margin-bottom: calc(5 * var(--space));
+}
+.site-title {
+  font-size: 1.2599em;
+  margin: 0;
+}
+.site-title a {
+  border-bottom: none;
+  color: inherit;
+}
+
+/* Menu */
+.menu {
+  margin: var(--space) 0 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.menu li + li {
+  margin-left: var(--space);
+}
+.menu a {
+  color: inherit;
+}
+.menu a:hover {
+  color: var(--color-accent);
+  border-bottom: none;
+}
+
+/* Post list */
+.posts ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.posts ul + ul {
+  margin-top: calc(4 * var(--space));
+}
+.posts li + li {
+  border-top: var(--border);
+}
+.year {
+  font-size: inherit;
+  margin: 0 0 var(--space);
+}
+.posts a {
+  color: inherit;
+  padding: var(--space) 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: none;
+  line-height: 1.25;
+}
+.posts a:hover {
+  color: var(--color-accent);
+  border-bottom: none;
+}
+.posts h2 {
+  margin: 0;
+  display: inline;
+  font-size: inherit;
+  font-weight: normal;
+}
+
+/* Pagination */
+.pagination {
+  list-style: none;
+  padding: 0;
+  margin: calc(4 * var(--space)) 0 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.pagination li + li {
+  margin-left: 10px;
+}
+
+/* Single post */
+.hentry header {
+  margin-bottom: calc(4 * var(--space));
+}
+.entry-title {
+  margin: 0 0 var(--space);
+}
+.entry-content > *:first-child {
+  margin-top: 0;
+}
+.entry-content h2,
+.entry-content h3 {
+  border-bottom: var(--border);
+  padding-bottom: .25em;
+}
+.topic {
+  border-bottom: none;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.topic:hover {
+  color: inherit;
+  border-bottom: none;
+}
+
+/* Topic (archive) page */
+.page-title {
+  margin: 0 0 calc(4 * var(--space));
+}
+
+/* Responsive */
+@media (min-width: 768px) {
+  .header {
+    margin-top: calc(5 * var(--space));
+  }
+}
