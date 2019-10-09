@@ -1,12 +1,7 @@
 /**
  * Base
  */
-/* Nord theme: https://www.nordtheme.com/ */
 :root {
-	--color-background: #2e3440;
-	--color-text: #eceff4;
-	--color-accent: #ebcb8b;
-	--color-blockquote: #81a1c1;
 	--border: 1px solid #3b4252;
 	--space: 16px;
 }
@@ -16,10 +11,10 @@ body {
 	font-family: Monaco, Consolas, monospace;
 	font-size: 17px;
 	line-height: 1.6;
-	color: var(--color-text);
-	background: var(--color-background);
+	color: #eceff4;
+	background: #2e3440;
 	margin: calc(2 * var(--space)) auto;
-	max-width: 70ch;
+	max-width: 60ch;
 	padding: 0 var(--space);
 }
 h1, h2, h3 {
@@ -41,14 +36,14 @@ p, blockquote, hr {
 }
 blockquote {
 	font-style: italic;
-	color: var(--color-blockquote);
+	color: #81a1c1;
 }
 hr {
 	border-top: none;
 	border-bottom: var(--border);
 }
 a {
-	color: var(--color-accent);
+	color: #ebcb8b;
 	text-decoration: none;
 }
 a:hover {
@@ -99,7 +94,7 @@ time {
 	color: inherit;
 }
 .posts a:hover {
-	color: var(--color-accent);
+	color: #ebcb8b;
 	text-decoration: none;
 }
 
