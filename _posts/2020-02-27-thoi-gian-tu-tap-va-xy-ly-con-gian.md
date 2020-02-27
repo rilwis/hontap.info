@@ -5,9 +5,11 @@ title: Thời gian tu tập và xử lý cơn giận
 Lâu lắm rồi nhóm Thiền giữa đời thường mới tổ chức tu tập lại. Trong buổi tu tập hôm kia, có 2 câu hỏi rất hay được đưa ra trao đổi. Mọi người trong phòng tập và sư cô đã trả lời khá rốt ráo về khía cạnh đạo pháp. Mình cũng có 1 vài suy nghĩ, hơi thiên hướng về khía cạnh đời thường và muốn ghi lại trên blog này để có thể tham khảo thêm sau này. Các phần trả lời ở dưới là của mình.
 
 **Hỏi:**
+
 Khi công việc nhiều lên thì thời gian tu tập giảm bớt và việc giữ chánh niệm trở nên khó khăn hơn. Làm thế nào để làm việc hiệu quả trong khi vẫn duy trì được việc tu tập hàng ngày?
 
 **Đáp:**
+
 Bạn nên *nghỉ việc*! Hoặc *lựa chọn một công việc khác, công ty khác* mà ở đó bạn có môi trường làm việc thoải mái hơn và sắp xếp được thời gian tốt hơn.
 
 Cá nhân mình đã chuyển việc làm từ cơ quan Nhà nước ra làm riêng, và bây giờ thì mình cảm thấy khá hạnh phúc: được làm việc mình yêu thích, chủ động về thời gian và sắp xếp được công việc theo ý mình. Nhờ đó mà mình ít bị sức ép về công việc và có thời gian hơn cho gia đình và bản thân.
@@ -27,6 +29,7 @@ Cách cuối cùng là hãy tách bạch công việc và phần còn lại tron
 Vấn đề chúng ta hay gặp phải là trong 8h làm việc, đầu óc lại nghĩ đến tu tập (hoặc những thứ khác). Khi hết giờ làm rồi thì đầu óc lại nghĩ đến công việc. Đấy mới là vấn đề, chứ thời gian làm việc thì ai cũng 8h như nhau cả thôi. Hãy để 8h đó là thời gian của nó, và 16h còn lại là thời gian của bạn.
 
 **Hỏi:**
+
 Mọi người trong gia đình đều làm về lĩnh vực khoa học và khi tranh luận thì thường không kiềm chế được và xảy ra cãi vã. Mặc dù lúc đó biết là có cơn giận, nhưng vẫn bị cuốn theo cảm xúc. Làm thế nào để xử lý vấn đề này?
 
 **Đáp:**
