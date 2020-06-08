@@ -46,11 +46,12 @@ Giống tầm, nhưng cộng thêm 11 tâm nhị thiền = 66 tâm.
 
 #### Cần
 
-121 tâm - ngũ song thức - khai ngũ môn - 2 tâm tiếp thâu - 3 tâm quan sát = 105 tâm
+121 tâm - ngũ song thức - khai ngũ môn - 2 tâm tiếp thâu - 3 tâm quan sát = 105 tâm.
 
 #### Hỷ
 
-51 tâm thọ hỷ - 11 tâm tứ thiền (tứ thiền có thọ hỷ nhưng không có sở hữu hỷ) = 40 tâm
+51 tâm thọ hỷ - 11 tâm tứ thiền (tứ thiền có thọ hỷ nhưng không có sở hữu hỷ) = 40 tâm.
 
 #### Dục
 
+121 tâm - 18 tâm vô nhân - 2 tâm si = 101 tâm.
