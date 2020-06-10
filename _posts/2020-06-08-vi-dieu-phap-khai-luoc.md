@@ -87,3 +87,52 @@ Cả 2 chỉ có thể có mặt trong các tâm hữu trợ bất thiện: 4 t�
 #### Hoài nghi
 
 Chỉ có mặt trong tâm si hoài nghi.
+
+### Sở hữu tịnh hảo
+
+#### Sở hữu tịnh hảo biến hành (19 sở hữu)
+
+Luôn có mặt trong tất cả 91 tâm tịnh hảo.
+
+#### Sở hữu tịnh hảo biệt cảnh
+
+##### Giới phần
+
+- Kiêng tránh để tâm không làm khẩu, thân ác nghiệp, phiền não thô.
+- Sát trừ phiền não
+
+Thiền đáo đại (hiệp thế): vì các phiền não thô thiển không có, nên về khía cạnh kiêng tránh không cần. Và cũng không thể sát trừ phiền não. Do đó các sở hữu giới phần không có trong thiền đáo đại.
+
+Do khía cạnh không làm khẩu, thân ác nghiệp, nên các sở hữu này có trong 8 tâm đại thiện.
+
+Do đặc tính của tâm đại quả và tâm duy tác, nên cũng không có giới phần.
+
+Trong tâm đạo siêu thế, có sát trừ phiền não nên bắt buộc phải có giới phần.
+
+Trong tâm quả siêu thế cũng có giới phần.
+
+Tóm lại, giới phần có mặt trong:
+
+- 8 tâm đại thiện (do cần phải có để kiêng tránh)
+- 40 tâm siêu thế (vì khía cạnh sát trừ phiền não).
+
+##### Vô lượng phần
+
+Là 2 trong 4 đề mục thiền chỉ, nên có trong các tâm thiền, nhưng không có mặt trong các tâm ngũ thiền và thiền vô sắc giới.
+
+Không có trong tâm quả dục giới, nhưng vẫn có trong tâm quả sắc giới.
+
+Tóm lại, vô lượng phần có mặt trong:
+
+- 8 tâm đại thiện
+- 8 tâm duy tác
+- 12 tâm đáo đại (trừ 15 tâm ngũ thiền = 3 tâm ngũ thiền sắc giới và 12 tâm vô sắc giới)
+
+##### Vô si (trí tuệ)
+
+Luôn có mặt trong các tâm hợp trí, bao gồm:
+
+- 12 tâm dục giới tịnh hảo
+- 15 tâm sắc giới
+- 12 tâm vô sắc giới
+- 40 tâm siêu thế
