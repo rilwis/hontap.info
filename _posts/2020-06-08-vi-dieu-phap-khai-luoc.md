@@ -139,7 +139,7 @@ Luôn có mặt trong các tâm hợp trí, bao gồm:
 - 12 tâm vô sắc giới
 - 40 tâm siêu thế
 
-## Tâm có bao nhiêu sở hữu
+## Tâm yếu hiệp sở hữu
 
 ### Nhóm 12 tâm bất thiện
 
