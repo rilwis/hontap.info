@@ -4,9 +4,12 @@ title: Vi diệu pháp khái lược
 
 Đây là phần mình ghi chép lại trong lớp học Vi diệu pháp khái lược. Mình ghi phần cuối, phần đầu được ghi trong [mind map](https://mind42.com/mindmap/9ef6215a-0968-4672-8826-3f4a20d54356).
 
-## Sở hữu bất định
+## Sở hữu bất định và nhất định
 
-Trong 52 sở hữu, có 11 sở hữu bất định, còn lại là 41 sở hữu nhất định. Sở hữu bất định khi hợp với những tâm mà chúng có thể hợp được và hợp một cách riêng biệt và bất thường (hoặc có hoặc không).
+Trong 52 sở hữu, có 11 sở hữu bất định, còn lại là 41 sở hữu nhất định.
+
+- Sở hữu nhất định khi tương ưng với tâm nào thì luôn có mặt khi tâm đó.
+- Sở hữu bất định khi hợp với những tâm mà chúng có thể hợp được và hợp một cách riêng biệt và bất thường (hoặc có hoặc không).
 
 Các sở hữu bất định:
 
@@ -16,7 +19,7 @@ Các sở hữu bất định:
 - Chánh ngữ, chánh nghiệp, chánh mạng
 - Bi, tùy hỷ
 
-Các sở hữu biến hành luôn luôn là nhất định. Ngoài ra còn có 6 sở hữu biệt cảnh là sở hữu nhất định.
+Các sở hữu biến hành luôn luôn là nhất định (luôn có trong tất cả các tâm). Ngoài ra còn có 6 sở hữu biệt cảnh là sở hữu nhất định.
 
 ## Tương quan giữa tâm và sở hữu
 
@@ -55,3 +58,32 @@ Giống tầm, nhưng cộng thêm 11 tâm nhị thiền = 66 tâm.
 #### Dục
 
 121 tâm - 18 tâm vô nhân - 2 tâm si = 101 tâm.
+
+### Sở hữu bất thiện
+
+Chỉ đi với nhóm tâm bất thiện.
+
+#### Si phần (bất thiện biến hành)
+
+Si, vô tàm, vô úy, phóng dật: có mặt trong tất cả 12 tâm bất thiện.
+
+#### Tham phần
+
+- Tham: luôn có mặt trong 8 tâm tham.
+- Tà kiến: có mặt trong 4 tâm tham hợp tà.
+- Ngã mạn: 4 tâm tham ly tà (bất định - không phải lúc nào cũng có).
+
+#### Sân phần
+
+- Sân: luôn có mặt trong 2 tâm sân.
+- Tật, lận, hối: chỉ có mặt trong 2 tâm sân (bất định - không phải tâm sân nào cũng có).
+
+#### Hôn phần
+
+Hôn trầm, thụy miên: luôn luôn đi chung với nhau. Hôn trầm là trạng thái tâm lười biếng, làm tâm thụ động. Thụy miên khiến cho thân thể chìm vào giấc ngủ.
+
+Cả 2 chỉ có thể có mặt trong các tâm hữu trợ bất thiện: 4 tâm tham hữu trợ và 1 tâm sân hữu trợ. Và có mặt bất định, không phải lúc nào cũng có.
+
+#### Hoài nghi
+
+Chỉ có mặt trong tâm si hoài nghi.
