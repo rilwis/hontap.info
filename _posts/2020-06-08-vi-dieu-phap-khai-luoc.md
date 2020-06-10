@@ -26,6 +26,8 @@ Các sở hữu biến hành luôn luôn là nhất định (luôn có trong t�
 - Sampayoga: tương ưng (sampayutta): hợp với cái gì đó. Một sở hữu có trong bao nhiêu tâm.
 - Sangaha: yếu hiệp (gồm có). Tâm yếu hiệp sở hữu = trong 1 tâm đó có bao nhiêu sở hữu.
 
+## Sở hữu tương ưng với tâm
+
 7 sở hữu biến hành có mặt trong 121 tâm.
 
 ### Sở hữu biệt cảnh tương ưng với tâm
@@ -136,3 +138,33 @@ Luôn có mặt trong các tâm hợp trí, bao gồm:
 - 15 tâm sắc giới
 - 12 tâm vô sắc giới
 - 40 tâm siêu thế
+
+## Tâm có bao nhiêu sở hữu
+
+### Nhóm 12 tâm bất thiện
+
+Luôn có nhóm sở hữu tự tha và sở hữu bất hiện.
+
+Ví dụ:
+
+- Tâm tham thọ hỷ hợp tà vô trợ có: 13 tự tha + 4 si phần + sở hữu tham + tà kiến = 19 sở hữu hợp.
+- Tâm tham thọ hỷ hợp tà hữu trợ có: 13 tự tha + 4 si phần + sở hữu tham + tà kiến + 2 hôn phần (bất định) = 21 sở hữu hợp.
+- Tâm tham thọ hỷ ly tà vô trợ có: 13 tự tha + 4 si phần + sở hữu tham + ngã mạn (bất định) = 19 sở hữu hợp.
+- Tâm sân thọ ưu hợp phẫn vô trợ: 12 tự tha (trừ hỷ) + 4 si phần + sân + tật, lận, hối (bất định) = 20 sở hữu hợp.
+- Tâm si hoài nghi: 10 tự tha (trừ hỷ, thắng giải, dục) + 4 si phần + hoài nghi = 15 sở hữu hợp.
+
+### Nhóm tâm vô nhân
+
+Chỉ có sở hữu 13 tự tha - sở hữu dục = 12 sở hữu tự tha.
+
+### Nhóm tâm dục giới tịnh hảo
+
+Có 13 sở hữu tự tha + 25 sở hữu tịnh hảo = 38 sở hữu hợp.
+
+Ví dụ:
+
+- Tâm đại thiện thọ hỷ hợp trí vô trợ: 13 tự tha + 19 tịnh hảo biến hành + 3 giới phần (bất định) + 2 vô lượng phần (bất định) + vô si = 38 sở hữu hợp.
+- Tâm đại thiện thọ hỷ ly trí vô trợ: 38 sở hữu - vô si = 37 sở hữu hợp.
+- Tâm đáo đại: trừ giới phần
+- Tâm siêu thế: trừ vô lượng phần
+- Thiền tầng cao: trừ hỷ
