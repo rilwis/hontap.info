@@ -169,3 +169,39 @@ Ví dụ:
 - Tâm đáo đại: trừ giới phần
 - Tâm siêu thế: trừ vô lượng phần
 - Thiền tầng cao: trừ hỷ
+
+## Tập yếu hiệp (Sangaha)
+
+Các pháp được phân loại theo các tiêu chí quan trọng.
+
+### Thọ yếu hiệp
+
+Hỷ, ưu, xả, khổ, lạc.
+
+### Nhân yếu hiệp
+
+Tham, sân, si, vô tham, vô sân, vô si. Vô tham, vô sân, vô si được chia làm 2: thiện và vô ký.
+
+### Sự yếu hiệp (kiccasangaha)
+
+Sự = việc làm, ở đây là phân loại tâm theo việc làm của tâm.
+
+Có 14 sự (kicca, việc làm):
+
+1. Việc tục sinh: tâm đầu tiên bắt đầu 1 kiếp sống mới. Luôn là tâm quả của các tâm thiện, bất thiện trong đời quá khứ. Có 19 tâm làm việc tục sinh:
+	- 2 tâm quan sát xả thọ (vô nhân)
+	- 8 tâm đại quả (hợp trí gọi là tam nhân, ly trí gọi là nhị nhân)
+	- 9 tâm quả đáo đại: 5 tâm quả sắc giới, 4 tâm quả vô sắc giới (đều là tam nhân)
+2. Việc hộ kiếp (bhavanga) hay hữu phần: tâm duy trì kiếp sống, duy trì dòng tâm thức không bị gián đoạn. Khi 1 chúng sinh bắt đầu kiếp sống mới, tâm đầu tiên là tâm tái tục, tâm thứ 2 trở đi gọi là tâm hộ kiếp, tâm cuối cùng của đời sống gọi là tâm tử. Tâm tái tục, tâm hộ kiếp và tâm tử cùng 1 loại tâm, do đó tâm nào làm việc tục sinh, tâm đó làm luôn việc hộ kiếp. Biểu hiện: khi tâm không bắt cảnh bên ngoài, như lúc hôn mê, ngủ không chiêm bao. Trong đời sống thường ngày thì do tâm bắt cảnh nhanh nên không nhận thấy tâm hộ kiếp.
+3. Việc tử: tâm cuối cùng của kiếp sống, cùng loại với tâm hộ kiếp và tục sinh.
+4. Khai môn: 2 tâm: khai ngũ môn và khai ý môn.
+5. Việc thấy: 2 nhãn thức
+6. Việc nghe: 2 nhĩ thức
+7. Việc ngửi: 2 tỷ thức
+8. Việc nếm: 2 thiệt thức
+9. Việc xúc chạm: 2 thân thức
+10. Việc tiếp thâu
+11. Việc quan sát
+12. Đoán định: khai ý môn
+13. Đổng lực: xử lý. Thiện, bất thiện là do giai đoạn này xử lý.
+14. Na cảnh (dư cảnh): việc làm do còn ảnh hưởng của tâm đổng lực do xử lý việc làm còn sót lại.
