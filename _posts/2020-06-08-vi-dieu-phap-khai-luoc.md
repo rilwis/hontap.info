@@ -9,7 +9,7 @@ title: Vi diệu pháp khái lược
 Trong 52 sở hữu, có 11 sở hữu bất định, còn lại là 41 sở hữu nhất định.
 
 - Sở hữu nhất định khi tương ưng với tâm nào thì luôn có mặt khi tâm đó.
-- Sở hữu bất định khi hợp với những tâm mà chúng có thể hợp được và hợp một cách riêng biệt và bất thường (hoặc có hoặc không).
+- Sở hữu bất định khi hợp với những tâm mà chúng có thể hợp được và hợp một cách riêng biệt và bất thường. Nói cách khác, sở hữu có thể có hoặc có thể không trong tâm.
 
 Các sở hữu bất định:
 
@@ -150,6 +150,7 @@ Ví dụ:
 - Tâm tham thọ hỷ hợp tà vô trợ có: 13 tự tha + 4 si phần + sở hữu tham + tà kiến = 19 sở hữu hợp.
 - Tâm tham thọ hỷ hợp tà hữu trợ có: 13 tự tha + 4 si phần + sở hữu tham + tà kiến + 2 hôn phần (bất định) = 21 sở hữu hợp.
 - Tâm tham thọ hỷ ly tà vô trợ có: 13 tự tha + 4 si phần + sở hữu tham + ngã mạn (bất định) = 19 sở hữu hợp.
+- Tâm sân thọ ưu hợp phẫn hữu trợ: 12 tự tha (trừ hỷ) + 4 si phần + sân + tật, lận, hối (bất định) + 2 hôn phần (bất định) = 22 sở hữu hợp.
 - Tâm sân thọ ưu hợp phẫn vô trợ: 12 tự tha (trừ hỷ) + 4 si phần + sân + tật, lận, hối (bất định) = 20 sở hữu hợp.
 - Tâm si hoài nghi: 10 tự tha (trừ hỷ, thắng giải, dục) + 4 si phần + hoài nghi = 15 sở hữu hợp.
 
