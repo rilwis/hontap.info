@@ -205,3 +205,52 @@ Có 14 sự (kicca, việc làm):
 12. Đoán định: khai ý môn
 13. Đổng lực: xử lý. Thiện, bất thiện là do giai đoạn này xử lý.
 14. Na cảnh (dư cảnh): việc làm do còn ảnh hưởng của tâm đổng lực do xử lý việc làm còn sót lại.
+
+### Môn (dvara)
+
+Môn = cửa. Ví thân như căn nhà, tiếp xúc với cảnh qua 6 cửa (6 căn):
+
+1. Nhãn môn
+1. Nhĩ môn
+1. Tỷ môn
+1. Thiệt môn
+1. Thân môn
+1. Ý môn: chỉ cho tất cả các nhận biết không thông qua 5 giác quan trên.
+
+### Vật (vatthu)
+
+Vật là nơi tâm nương.
+
+1. Nhãn vật: thần kinh nhãn
+1. Nhĩ vật: thần kinh nhĩ
+1. Tỷ vật: thần kinh tỷ
+1. Thiệt vật: thần kinh thiệt
+1. Thân vật: thần kinh thân
+1. Ý vật (hadayavatthu): thành phần vật chất trong thân mà tâm nương gá.
+
+### Cảnh (arammana hoặc alambana)
+
+Là đối tượng mà tâm biết.
+
+Phân loại hẹp thì có 6 cảnh:
+
+1. Sắc
+1. Thanh
+1. Khí
+1. Vị
+1. Xúc
+1. Pháp: chỉ các cảnh không thuộc 5 nhóm trên, bao gồm cả các cảnh trước đó đã thấy nhưng giờ nhớ lại hoặc không còn.
+
+Phân loại rộng thì có 21 cảnh (theo tên gọi):
+
+- Từ 1 tới 5: sắc, thanh, khí, vị, xúc
+- 6: cảnh ngũ, bao gồm cả 5 cảnh trên
+- 7, 8, 9: pháp, chân đế, tục đế
+- 10, 11: dục giới, đáo đại
+- 12: Niết Bàn
+- 13, 14: danh pháp, sắc pháp
+- 15, 16, 17: quá khứ, hiện tại, vị lai
+- 18: ngoại thời: chế định và Niết Bàn, không gắn với thời gian
+- 19: nội phần: chỉ tâm, sở hữu, sắc pháp bên trong thân mình
+- 20: ngoại phần: chỉ tâm, sở hữu, sắc pháp bên ngoài thân mình
+- 21: nội và ngoại phần
