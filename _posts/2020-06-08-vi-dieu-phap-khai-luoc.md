@@ -254,3 +254,22 @@ Phân loại rộng thì có 21 cảnh (theo tên gọi):
 - 19: nội phần: chỉ tâm, sở hữu, sắc pháp bên trong thân mình
 - 20: ngoại phần: chỉ tâm, sở hữu, sắc pháp bên ngoài thân mình
 - 21: nội và ngoại phần
+
+## 11 cõi dục giới
+
+### 4 cõi khổ
+
+### 7 cõi vui
+
+- 1 cõi nhân loại (manussa): nơi chúng sinh có hùng tâm mạnh mẽ (có thể cực thiện hoặc cực ác). Phương diện hạnh phúc không quá an lạc như cõi trời, không khổ như địa ngục, nên thuận lợi cho việc tu tập. Có 11 hạng người.
+  + Tây ngưu xa châu
+  + Đông thắng thân châu
+  + Bắc cưu lưu châu
+  + Nam thiệm bộ châu (chỉ có ở cõi này mới xuất hiện thánh nhân)
+- 6 cõi trời (xếp theo thứ tự hạnh phúc, công đức, tuổi thọ):
+  + Tứ Đại Thiên Vương (Catummahārāja): Do 4 vị thiên vương cai quản có liên hệ mật thiết với nhân loại trong những thời kỳ đại phúc, các vị Thiên Vương hộ trì các bậc hiền nhân (nên được gọi là lokapāla). Có 11 hạng người. 
+  + Đạo Lợi (Tavatimsa, Tattimsa): nghĩa là 33, nên còn gọi là Tam Thập Tam Thiên. Được cai quản bởi vua trời Đế Thích và 32 vị thiên tử. Ở đây có giảng đường Sudhamna (thiện pháp), thường có buổi giảng pháp của các vị Phạm Thiên, hay các vị đạt đạo quả giảng. Có 10 hạng người.
+  + Dạ Ma (Yama): có 10 hạng người. Chúng sinh có khuynh hướng có tâm hân hoan, vui vẻ, vui thích. Đời trước thích đem lại niềm vui cho người khác. Người tu 4 vô lượng tâm nếu không chứng thiền thì có thể tái sinh vào đây.
+  + Đâu Suất (Tusita): các vị Bồ Tát kiếp kế cuối trước khi thành Phật luôn sanh về cõi này. Là nơi phù hợp cho các chúng sinh làm công đức với vai trò lãnh đạo. Các chúng sinh này sau khi sinh vào cõi nhân loại thì thường có vai trò lãnh đạo.
+  + Hóa Lạc Thiên (Mimmānarātī): chúng sinh cõi này muốn có gì thì hóa hiện để có. Những chúng sinh không muốn phụ lòng ai, hay giúp đỡ.
+  + Tha Hóa Tự Tại (Paranimmitavasati): chư thiên ở đây không cần hóa hiện, những gì muốn thì theo phước đức tự xuất hiện. Vua cõi trời này được coi như có quyền lực nhất tam giới, gọi là Ma Vương. Vị này có công đức quá lớn.
