@@ -273,3 +273,76 @@ Phân loại rộng thì có 21 cảnh (theo tên gọi):
   + Đâu Suất (Tusita): các vị Bồ Tát kiếp kế cuối trước khi thành Phật luôn sanh về cõi này. Là nơi phù hợp cho các chúng sinh làm công đức với vai trò lãnh đạo. Các chúng sinh này sau khi sinh vào cõi nhân loại thì thường có vai trò lãnh đạo.
   + Hóa Lạc Thiên (Mimmānarātī): chúng sinh cõi này muốn có gì thì hóa hiện để có. Những chúng sinh không muốn phụ lòng ai, hay giúp đỡ.
   + Tha Hóa Tự Tại (Paranimmitavasati): chư thiên ở đây không cần hóa hiện, những gì muốn thì theo phước đức tự xuất hiện. Vua cõi trời này được coi như có quyền lực nhất tam giới, gọi là Ma Vương. Vị này có công đức quá lớn.
+
+## 16 cõi sắc giới
+
+Tất cả chúng sinh trong các cõi này được tục sinh bằng các tâm quả sắc giới.
+
+### Sơ thiền
+
+Các chúng sinh trong cõi sắc giới và vô sắc giới gọi là Phạm Thiên, để phân biệt với Chư Thiên. Chúng sinh Phạm Thiên thanh tịnh hơn:
+
+- Bắt buộc phải chứng được thiền định.
+- Để sinh về cõi trời dục giới có thể chỉ cần đủ phước đức. Tuy nhiên với cõi trời sắc giới thì công đức không đủ, trừ phi tâm người đó có tu tập.
+- Về phương diện phiền não, các vị Phạm Thiên không có các phiền não thô thiển.
+- Quả của người ly dục khác hẳn với quả của chúng sinh cõi dục.
+- Thân sắc khác hẳn chúng sinh cõi dục. Các vị chỉ còn thần kinh nhãn và nhĩ thôi.
+- Đời sống bằng vật thực, là hạnh phúc của thiền định.
+- Thân tướng tuyệt đối sạch sẽ, thanh tịnh.
+
+Gồm 3 cõi:
+
+1. Phạm Chúng Thiên: có vai trò đồ chúng
+2. Phạm Phụ Thiên: có vai trò phụ tá
+3. Đại Phạm Thiên: có vai trò lãnh đạo
+
+Tuy chia làm 3 nhưng không gian sống là 1 và phụ thuộc vào công đức.
+
+### Nhị thiền (nhị, tam)
+
+Phân chia bằng khả năng thiền định, thể hiện ra bên ngoài bằng hào quang:
+
+4. Thiểu Quang Thiên: hào quang ít
+5. Vô Lượng Quang Thiên: hào quang không giới hạn
+6. Quang Âm Thiên: hào quang chẳng những không giới hạn mà còn xinh đẹp hơn
+
+(Tìm đọc sách "Chúng sanh và sanh thú")
+
+### Tam thiền (tứ)
+
+7. Thiểu Tịnh Thiên
+8. Vô Lượng Tịnh Thiên
+9. Biến Tịnh Thiên
+
+### Tứ thiền (ngũ)
+
+10. Quảng Quả
+11. Vô Tưởng: dành cho các vị nhàm chán tâm:
+  - Các vị thánh vô học (A Lán Hán) chứng ngũ thiền sẽ nhập Niết Bàn
+  - Các vị thánh hữu học (sơ, nhị) sẽ không chọn cõi này do cõi này không còn tâm
+  - Các vị phàm phu chứng ngũ thiền và nhàm chán tâm
+  
+Các vị thánh tam quả chứng ngũ thiền thì sinh vào 5 cõi Ngũ Tịnh Cư, tùy theo ngũ căn (tín, tấn, niệm, định, tuệ):
+
+12. Vô Phiền Thiên (tín)
+13. Vô Nhiệt (tấn)
+14. Thiện Kiến (niệm)
+15. Thiện Hiện (định)
+16. Sắc Cứu Cánh (tuệ)
+
+Các cõi Ngũ Tịnh Cư chỉ có 3 hạng người:
+
+- Tam quả
+- Tứ đạo
+- Tứ quả
+
+## Vô sắc
+
+- Không vô biên xứ
+- Thức vô biên xứ
+- Vô sở hữu xứ
+- Phi tưởng phi phi tưởng xứ
+
+Không có hình sức (mắt, tai, mũi, lưỡi, thân). Do đó các vị Phạm Thiên phải tự tu tập mà không học hỏi từ người khác được. Do đó các vị Bồ Tát không muốn sinh về các cõi này.
+
+Chỉ có 7 hạng thánh, không có sơ đạo.
