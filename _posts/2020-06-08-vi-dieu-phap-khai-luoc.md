@@ -255,11 +255,18 @@ Phân loại rộng thì có 21 cảnh (theo tên gọi):
 - 20: ngoại phần: chỉ tâm, sở hữu, sắc pháp bên ngoài thân mình
 - 21: nội và ngoại phần
 
-## 11 cõi dục giới
+## Các cõi
 
-### 4 cõi khổ
+### 11 cõi dục giới
 
-### 7 cõi vui
+#### 4 cõi khổ
+
+- Địa ngục
+- Ngạ quỷ
+- Súc sanh
+- A tu la
+
+#### 7 cõi vui
 
 - 1 cõi nhân loại (manussa): nơi chúng sinh có hùng tâm mạnh mẽ (có thể cực thiện hoặc cực ác). Phương diện hạnh phúc không quá an lạc như cõi trời, không khổ như địa ngục, nên thuận lợi cho việc tu tập. Có 11 hạng người.
   + Tây ngưu xa châu
@@ -274,11 +281,11 @@ Phân loại rộng thì có 21 cảnh (theo tên gọi):
   + Hóa Lạc Thiên (Mimmānarātī): chúng sinh cõi này muốn có gì thì hóa hiện để có. Những chúng sinh không muốn phụ lòng ai, hay giúp đỡ.
   + Tha Hóa Tự Tại (Paranimmitavasati): chư thiên ở đây không cần hóa hiện, những gì muốn thì theo phước đức tự xuất hiện. Vua cõi trời này được coi như có quyền lực nhất tam giới, gọi là Ma Vương. Vị này có công đức quá lớn.
 
-## 16 cõi sắc giới
+### 16 cõi sắc giới
 
 Tất cả chúng sinh trong các cõi này được tục sinh bằng các tâm quả sắc giới.
 
-### Sơ thiền
+#### Sơ thiền
 
 Các chúng sinh trong cõi sắc giới và vô sắc giới gọi là Phạm Thiên, để phân biệt với Chư Thiên. Chúng sinh Phạm Thiên thanh tịnh hơn:
 
@@ -298,7 +305,7 @@ Gồm 3 cõi:
 
 Tuy chia làm 3 nhưng không gian sống là 1 và phụ thuộc vào công đức.
 
-### Nhị thiền (nhị, tam)
+#### Nhị thiền (nhị, tam)
 
 Phân chia bằng khả năng thiền định, thể hiện ra bên ngoài bằng hào quang:
 
@@ -308,13 +315,13 @@ Phân chia bằng khả năng thiền định, thể hiện ra bên ngoài bằn
 
 (Tìm đọc sách "Chúng sanh và sanh thú")
 
-### Tam thiền (tứ)
+#### Tam thiền (tứ)
 
 7. Thiểu Tịnh Thiên
 8. Vô Lượng Tịnh Thiên
 9. Biến Tịnh Thiên
 
-### Tứ thiền (ngũ)
+#### Tứ thiền (ngũ)
 
 10. Quảng Quả
 11. Vô Tưởng: dành cho các vị nhàm chán tâm:
@@ -336,7 +343,7 @@ Các cõi Ngũ Tịnh Cư chỉ có 3 hạng người:
 - Tứ đạo
 - Tứ quả
 
-## Vô sắc
+### Vô sắc
 
 - Không vô biên xứ
 - Thức vô biên xứ
@@ -346,3 +353,36 @@ Các cõi Ngũ Tịnh Cư chỉ có 3 hạng người:
 Không có hình sức (mắt, tai, mũi, lưỡi, thân). Do đó các vị Phạm Thiên phải tự tu tập mà không học hỏi từ người khác được. Do đó các vị Bồ Tát không muốn sinh về các cõi này.
 
 Chỉ có 7 hạng thánh, không có sơ đạo.
+
+## Lộ trình tâm (citta vithi)
+
+Khana = sát na, là đơn vị thời gian cực nhỏ, chi cho thời gian tồn tại của 1 tâm khi nó sanh lên. Ví dụ 1 nháy mắt đủ cho tâm sanh diệt hàng tỉ lần. Tâm sanh diệt liên tục, không bao giờ có 2 tâm sanh cùng 1 lúc. Các tâm sanh lên với thời gian giống nhau và tồn tại trong 3 giai đoạn: sinh, trụ, diệt.
+
+Bình nhật (hộ kiếp, hữu phần = Bhavanga):
+- chủ quan: tâm làm việc theo nghiệp lực của chúng sinh trong đời quá khứ. Là tâm quả và không tu tập được. Gọi là tâm hộ kiếp.
+- khách quan: tâm thu nhận cảnh bên ngoài.
+
+Tâm tục sinh: 19 tâm quả (2 tâm quả quan sát thọ xả, 8 tâm quả đại thiện, 9 tâm quả đáo đại). Tâm hữu phần, tâm tử, tâm tục sinh là cùng 1 loại. Tâm hộ kiếp bắt cảnh rất mờ nhạt. VD khi ngủ, sau khi dậy thì không nhớ.
+
+Khi gặp cảnh, tâm hộ kiếp gián đoạn và nhường cho các tâm khác sanh lên (nhãn thức, nhĩ thức, tham, sân, si, ...). Khi các tâm đó dừng lại thì tâm hộ kiếp tiếp tục sinh.
+- Cảnh ngũ: khai ngũ môn
+- Cảnh ý: khai ý môn
+
+Có 6 lộ tâm theo 6 môn: nhãn, nhĩ, tỉ, thiệt, thân, ý. Tâm sinh theo môn nào thì thuộc về lộ đó. Hoặc chia làm 2:
+- Lộ ngũ môn
+- Lộ ý môn
+
+### Lộ ngũ môn
+
+Có 4 cảnh chia theo độ mạnh yếu:
+- Cảnh rất lớn (atimahanta)
+- Cảnh lớn
+- Cảnh nhỏ
+- Cảnh rất nhỏ
+
+Lớn nhỏ không phải là về kích thước, mà lớn nhỏ chi cho cường độ, mức độ mạnh yếu khi tâm nhận biết cảnh (dễ dàng, khó hay không thấy).
+
+Khi cảnh lớn tác động vào thì tâm hữu phần dao động 2 lần và có 3 tâm (cùng loại hữu phần) sanh lên:
+- V: vừa qua
+- R: rung động
+- D: dứt dòng
