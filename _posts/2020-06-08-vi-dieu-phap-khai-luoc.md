@@ -358,11 +358,25 @@ Chỉ có 7 hạng thánh, không có sơ đạo.
 
 Khana = sát na, là đơn vị thời gian cực nhỏ, chi cho thời gian tồn tại của 1 tâm khi nó sanh lên. Ví dụ 1 nháy mắt đủ cho tâm sanh diệt hàng tỉ lần. Tâm sanh diệt liên tục, không bao giờ có 2 tâm sanh cùng 1 lúc. Các tâm sanh lên với thời gian giống nhau và tồn tại trong 3 giai đoạn: sinh, trụ, diệt.
 
+Các khoảng thời gian trong kiếp người: tục sinh, bình nhật, tử.
+
 Bình nhật (hộ kiếp, hữu phần = Bhavanga):
 - chủ quan: tâm làm việc theo nghiệp lực của chúng sinh trong đời quá khứ. Là tâm quả và không tu tập được. Gọi là tâm hộ kiếp.
 - khách quan: tâm thu nhận cảnh bên ngoài.
 
+Cảnh cận tử:
+- Nghiệp cảnh
+- Nghiệp tưởng
+
 Tâm tục sinh: 19 tâm quả (2 tâm quả quan sát thọ xả, 8 tâm quả đại thiện, 9 tâm quả đáo đại). Tâm hữu phần, tâm tử, tâm tục sinh là cùng 1 loại. Tâm hộ kiếp bắt cảnh rất mờ nhạt. VD khi ngủ, sau khi dậy thì không nhớ.
+
+12 hạng người phân theo 19 tâm tục sinh:
+- khổ: quan sát thọ xả quả bất thiện
+- lạc: quan sát thọ xả quả thiện
+- nhị nhân: 4 đại quả ly trí
+- tam nhân: 4 đại quả hợp trí + 9 quả đáo đại. Chỉ người này mới có nhân trí tuệ.
+
+Nếu tục sinh bằng tâm ly trí (không phải tam nhân) thì trong 3 khoảng thời gian này thì các tâm chủ quan không có trí. Chỉ khi có tâm khách quan tác động vào thì có trí. Chỉ có người tam nhân thì luôn có tâm hợp trí. Do đó người tam nhân mới chứng thiền và đạt đạo quả.
 
 Khi gặp cảnh, tâm hộ kiếp gián đoạn và nhường cho các tâm khác sanh lên (nhãn thức, nhĩ thức, tham, sân, si, ...). Khi các tâm đó dừng lại thì tâm hộ kiếp tiếp tục sinh.
 - Cảnh ngũ: khai ngũ môn
@@ -373,6 +387,14 @@ Có 6 lộ tâm theo 6 môn: nhãn, nhĩ, tỉ, thiệt, thân, ý. Tâm sinh th
 - Lộ ý môn
 
 ### Lộ ngũ môn
+
+1. Nhãn môn
+2. Nhĩ môn
+3. Tỷ môn
+4. Thiệt môn
+5. Thân môn
+
+Do 5 môn này tiến trình sinh diệt giống nhau nên được gộp chung lại.
 
 Có 4 cảnh chia theo độ mạnh yếu:
 - Cảnh rất lớn (atimahanta)
@@ -386,3 +408,15 @@ Khi cảnh lớn tác động vào thì tâm hữu phần dao động 2 lần v�
 - V: vừa qua
 - R: rung động
 - D: dứt dòng
+
+Lộ nhãn môn cảnh rất lớn, gồm 17 sát na:
+- Hữu phần: vừa qua, rung động, dứt dòng (tâm chủ quan, tâm quả).
+- Khai ngũ môn (tâm quả).
+- Nhãn thức: nhận biết cảnh sắc. Có thể quả thiện hay quả tâm quả bất thiện (2 tâm) (tâm quả).
+- Tiếp thâu (2 tâm) (tâm quả).
+- Quan sát (2 tâm) (tâm quả).
+- Đoán định: khai ý môn (tâm quả).
+- Đổng lực: 7 sát na, là tâm quyết định tạo thiện hay ác và có thể tạo ra quả. Gồm 12 tâm bất thiện hoặc 8 tâm đại thiện. Đối với các vị A la hán thì có thêm 8 tâm duy tác và 1 tâm Ứng cúng vi tiếu, có chức năng giống như các tâm đại thiện nhưng không tạo quả. Tổng cộng 29 tâm đổng lực dục giới.
+- Na cảnh: 2 sát na (tâm quả). Tâm na cảnh chỉ sinh trong lộ ngũ môn. Là các tâm quả dục giới: 8 tâm đại quả và 3 tâm quan sát.
+
+2 lộ tâm không thể liên tục với nhau được. Giữa 2 lộ tâm phải có tâm hộ kiếp ở giữa.
