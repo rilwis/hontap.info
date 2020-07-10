@@ -255,7 +255,7 @@ Phân loại rộng thì có 21 cảnh (theo tên gọi):
 - 20: ngoại phần: chỉ tâm, sở hữu, sắc pháp bên ngoài thân mình
 - 21: nội và ngoại phần
 
-## Các cõi
+## 31 cõi
 
 ### 11 cõi dục giới
 
@@ -285,7 +285,7 @@ Phân loại rộng thì có 21 cảnh (theo tên gọi):
 
 Tất cả chúng sinh trong các cõi này được tục sinh bằng các tâm quả sắc giới.
 
-#### Sơ thiền
+#### 3 cõi sơ thiền
 
 Các chúng sinh trong cõi sắc giới và vô sắc giới gọi là Phạm Thiên, để phân biệt với Chư Thiên. Chúng sinh Phạm Thiên thanh tịnh hơn:
 
@@ -305,7 +305,7 @@ Gồm 3 cõi:
 
 Tuy chia làm 3 nhưng không gian sống là 1 và phụ thuộc vào công đức.
 
-#### Nhị thiền (nhị, tam)
+#### 3 cõi nhị thiền (nhị, tam)
 
 Phân chia bằng khả năng thiền định, thể hiện ra bên ngoài bằng hào quang:
 
@@ -315,13 +315,13 @@ Phân chia bằng khả năng thiền định, thể hiện ra bên ngoài bằn
 
 (Tìm đọc sách "Chúng sanh và sanh thú")
 
-#### Tam thiền (tứ)
+#### 3 cõi tam thiền (tứ)
 
 7. Thiểu Tịnh Thiên
 8. Vô Lượng Tịnh Thiên
 9. Biến Tịnh Thiên
 
-#### Tứ thiền (ngũ)
+#### 7 cõi tứ thiền (ngũ)
 
 10. Quảng Quả
 11. Vô Tưởng: dành cho các vị nhàm chán tâm:
@@ -343,7 +343,7 @@ Các cõi Ngũ Tịnh Cư chỉ có 3 hạng người:
 - Tứ đạo
 - Tứ quả
 
-### Vô sắc
+### 4 cõi vô sắc
 
 - Không vô biên xứ
 - Thức vô biên xứ
@@ -414,9 +414,40 @@ Lộ nhãn môn cảnh rất lớn, gồm 17 sát na:
 - Khai ngũ môn (tâm quả).
 - Nhãn thức: nhận biết cảnh sắc. Có thể quả thiện hay quả tâm quả bất thiện (2 tâm) (tâm quả).
 - Tiếp thâu (2 tâm) (tâm quả).
-- Quan sát (2 tâm) (tâm quả).
+- Quan sát (2 tâm) (2 tâm quan sát thọ xả + 1 tâm quan sát thọ hỷ, tâm quả).
 - Đoán định: khai ý môn (tâm quả).
 - Đổng lực: 7 sát na, là tâm quyết định tạo thiện hay ác và có thể tạo ra quả. Gồm 12 tâm bất thiện hoặc 8 tâm đại thiện. Đối với các vị A la hán thì có thêm 8 tâm duy tác và 1 tâm Ứng cúng vi tiếu, có chức năng giống như các tâm đại thiện nhưng không tạo quả. Tổng cộng 29 tâm đổng lực dục giới.
 - Na cảnh: 2 sát na (tâm quả). Tâm na cảnh chỉ sinh trong lộ ngũ môn. Là các tâm quả dục giới: 8 tâm đại quả và 3 tâm quan sát.
 
+```
+[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]-[NC-NC]
+```
+
+![](https://i.imgur.com/hLdOOek.png)
+
 2 lộ tâm không thể liên tục với nhau được. Giữa 2 lộ tâm phải có tâm hộ kiếp ở giữa.
+
+Lộ ngũ môn cảnh lớn: tương tự cảnh rất lớn, chỉ khác là:
+- Trường hợp 1:
+  - Hữu phần: 2 sát na vừa qua
+  - Na cảnh: 1 sát na
+- Trường hợp 2:
+  - Hữu phần: 3 sát na vừa qua
+  - Không có tâm na cảnh
+  
+  ```
+  [V1-V2-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]-[NC]
+  [V1-V2-V3-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]
+  ```
+  
+  ![](https://i.imgur.com/ZDZed6T.png)
+  
+  ![](https://i.imgur.com/GXnaVxm.png)
+  
+Lộ ngũ môn cảnh nhỏ: không có tâm đổng lực, do đó không có khả năng tạo nghiệp. Có 6 trường hợp, tính theo số lần sanh tâm vừa qua nhiều dần lên (từ 4 tới 9 sát na), tâm na cảnh ít dần đi.
+
+Lộ ngũ môn cảnh rất nhỏ: hoàn toàn không có tâm khách quan.
+
+Tính theo các cõi, thì lộ ngũ môn:
+- Không có ở các cõi vô sắc giới
+- Ở cõi sắc giới, chỉ có lộ nhãn thức và nhĩ thức
