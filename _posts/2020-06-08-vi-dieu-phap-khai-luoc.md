@@ -419,9 +419,7 @@ Lộ nhãn môn cảnh rất lớn, gồm 17 sát na:
 - Đổng lực: 7 sát na, là tâm quyết định tạo thiện hay ác và có thể tạo ra quả. Gồm 12 tâm bất thiện hoặc 8 tâm đại thiện. Đối với các vị A la hán thì có thêm 8 tâm duy tác và 1 tâm Ứng cúng vi tiếu, có chức năng giống như các tâm đại thiện nhưng không tạo quả. Tổng cộng 29 tâm đổng lực dục giới.
 - Na cảnh: 2 sát na (tâm quả). Tâm na cảnh chỉ sinh trong lộ ngũ môn. Là các tâm quả dục giới: 8 tâm đại quả và 3 tâm quan sát.
 
-```
 [V-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]-[NC-NC]
-```
 
 ![](https://i.imgur.com/hLdOOek.png)
 
@@ -434,16 +432,15 @@ Lộ ngũ môn cảnh lớn: tương tự cảnh rất lớn, chỉ khác là:
 - Trường hợp 2:
   - Hữu phần: 3 sát na vừa qua
   - Không có tâm na cảnh
-  
-  ```
-  [V1-V2-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]-[NC]
-  [V1-V2-V3-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]
-  ```
-  
-  ![](https://i.imgur.com/ZDZed6T.png)
-  
-  ![](https://i.imgur.com/GXnaVxm.png)
-  
+
+[V1-V2-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]-[NC]
+
+[V1-V2-V3-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]
+
+![](https://i.imgur.com/ZDZed6T.png)
+
+![](https://i.imgur.com/GXnaVxm.png)
+
 Lộ ngũ môn cảnh nhỏ: không có tâm đổng lực, do đó không có khả năng tạo nghiệp. Có 6 trường hợp, tính theo số lần sanh tâm vừa qua nhiều dần lên (từ 4 tới 9 sát na), tâm na cảnh ít dần đi.
 
 Lộ ngũ môn cảnh rất nhỏ: hoàn toàn không có tâm khách quan.
