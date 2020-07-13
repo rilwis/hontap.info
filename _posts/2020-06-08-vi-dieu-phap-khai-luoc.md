@@ -410,14 +410,14 @@ Khi cảnh lớn tác động vào thì tâm hữu phần dao động 2 lần v�
 - D: dứt dòng
 
 Lộ nhãn môn cảnh rất lớn, gồm 17 sát na:
-- Hữu phần: vừa qua, rung động, dứt dòng (tâm chủ quan, tâm quả).
+- Hữu phần: vừa qua, rung động, dứt dòng (tâm chủ quan, tâm quả). 19 tâm quả (2 tâm quả quan sát thọ xả, 8 tâm quả đại thiện, 9 tâm quả đáo đại).
 - Khai ngũ môn (tâm quả).
-- Nhãn thức: nhận biết cảnh sắc. Có thể quả thiện hay quả tâm quả bất thiện (2 tâm) (tâm quả).
+- Nhãn thức: nhận biết cảnh sắc. Có thể quả thiện hay quả tâm quả bất thiện (2 tâm) (tâm quả). Các lộ khác thì là 1 trong 10 ngũ song thức.
 - Tiếp thâu (2 tâm) (tâm quả).
 - Quan sát (2 tâm) (2 tâm quan sát thọ xả + 1 tâm quan sát thọ hỷ, tâm quả).
 - Đoán định: khai ý môn (tâm quả).
 - Đổng lực: 7 sát na, là tâm quyết định tạo thiện hay ác và có thể tạo ra quả. Gồm 12 tâm bất thiện hoặc 8 tâm đại thiện. Đối với các vị A la hán thì có thêm 8 tâm duy tác và 1 tâm Ứng cúng vi tiếu, có chức năng giống như các tâm đại thiện nhưng không tạo quả. Tổng cộng 29 tâm đổng lực dục giới.
-- Na cảnh: 2 sát na (tâm quả). Tâm na cảnh chỉ sinh trong lộ ngũ môn. Là các tâm quả dục giới: 8 tâm đại quả và 3 tâm quan sát.
+- Na cảnh: 2 sát na (tâm quả). Tâm na cảnh chỉ sinh trong lộ ngũ môn. Là các tâm quả dục giới: 8 tâm đại quả và 3 tâm quan sát. Do là dư sót của các tâm đổng lực, nên tâm đổng lực thọ nào thì tâm na cảnh thọ đó. Trường hợp đặc biệt: tục sinh bằng tâm quả thọ hỷ, thì tâm hộ kiếp bình nhật là thọ hỷ. Theo quy luật tâm pháp thọ ưu và thọ hỷ không thể gần kề nhau, mà giữa đó phải có tâm thọ xả. Nên nếu tâm đổng lực là tâm sân thọ ưu thì tâm na cảnh ngay sau đó không thể thọ ưu hay hỷ mà phải là tâm hộ kiếp xả, có vai trò làm trung gian cho thọ ưu và thọ hỷ. Trong trường hợp đó gọi là tâm hộ kiếp khách. Lưu ý tâm sân không có ở sắc giới và vô sắc giới.
 
 [V-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL-ĐL-ĐL]-[NC-NC]
 
@@ -448,3 +448,31 @@ Lộ ngũ môn cảnh rất nhỏ: hoàn toàn không có tâm khách quan.
 Tính theo các cõi, thì lộ ngũ môn:
 - Không có ở các cõi vô sắc giới
 - Ở cõi sắc giới, chỉ có lộ nhãn thức và nhĩ thức
+
+Các sát na tâm được gọi tên theo:
+- chức năng, việc làm
+- thời điểm, giai đoạn
+
+Học thì cố gắng phân biệt được: môn, vật, cảnh, người, cõi.
+
+Các lộ tâm chia làm 2:
+- lộ tâm bình nhật
+- lộ tâm cận tử
+
+Lộ ngũ môn cận tử: chỉ có 2 cảnh rất lớn và lớn.
+
+Cảnh rất lớn:
+
+[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL]-[NC-NC]-[HP-Tử]---[Tục sinh]
+
+[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL]-[NC-NC]-[Tử]---[Tục sinh]
+
+Cảnh lớn:
+
+[V-V-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL]-[HP-Tử]---[Tục sinh]
+
+[V--VR-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL]-[Tử]---[Tục sinh]
+
+Sau tâm tục sinh là liên tục 14 sát na tâm hộ kiếp. Sau đó lộ tâm đầu tiên là lộ ý: V-R-D, sau đó là khai ý môn, rồi đến 7 tâm đổng lực là tâm tham, do chúng sinh vẫn còn tâm tham.
+
+[V-V-R-D]-[K5-NT-TT-QS-ĐĐ]-[ĐL-ĐL-ĐL-ĐL-ĐL]-[HP-Tử]---[Tục sinh]-[14 x H]-[V-R-D]-[KY]-[7 x ĐL tham]-[H]---Lộ tâm tiếp
