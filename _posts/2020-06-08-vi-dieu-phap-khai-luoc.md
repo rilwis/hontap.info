@@ -208,7 +208,7 @@ Có 14 sự (kicca, việc làm):
 
 ### Môn (dvara)
 
-Môn = cửa. Ví thân như căn nhà, tiếp xúc với cảnh qua 6 cửa (6 căn):
+Môn = cửa, thông qua đó mà tâm biết cảnh. Ví thân như căn nhà, tiếp xúc với cảnh qua 6 cửa (6 căn):
 
 1. Nhãn môn
 1. Nhĩ môn
@@ -227,6 +227,8 @@ Vật là nơi tâm nương.
 1. Thiệt vật: thần kinh thiệt
 1. Thân vật: thần kinh thân
 1. Ý vật (hadayavatthu): thành phần vật chất trong thân mà tâm nương gá.
+
+Phân biệt môn và vật: VD tâm sân có thể sinh thông qua nhãn môn, nhĩ môn, ..., nhưng nó chỉ nương trên ý vật.
 
 ### Cảnh (arammana hoặc alambana)
 
@@ -409,7 +411,7 @@ Khi cảnh lớn tác động vào thì tâm hữu phần dao động 2 lần v�
 - R: rung động
 - D: dứt dòng
 
-Lộ nhãn môn cảnh rất lớn, gồm 17 sát na:
+**Lộ nhãn môn cảnh rất lớn**: gồm 17 sát na:
 - Hữu phần: vừa qua, rung động, dứt dòng (tâm chủ quan, tâm quả). 19 tâm quả (2 tâm quả quan sát thọ xả, 8 tâm quả đại thiện, 9 tâm quả đáo đại).
 - Khai ngũ môn (tâm quả).
 - Nhãn thức: nhận biết cảnh sắc. Có thể quả thiện hay quả tâm quả bất thiện (2 tâm) (tâm quả). Các lộ khác thì là 1 trong 10 ngũ song thức.
@@ -417,15 +419,25 @@ Lộ nhãn môn cảnh rất lớn, gồm 17 sát na:
 - Quan sát (2 tâm) (2 tâm quan sát thọ xả + 1 tâm quan sát thọ hỷ, tâm quả).
 - Đoán định: khai ý môn (tâm quả).
 - Đổng lực: 7 sát na, là tâm quyết định tạo thiện hay ác và có thể tạo ra quả. Gồm 12 tâm bất thiện hoặc 8 tâm đại thiện. Đối với các vị A la hán thì có thêm 8 tâm duy tác và 1 tâm Ứng cúng vi tiếu, có chức năng giống như các tâm đại thiện nhưng không tạo quả. Tổng cộng 29 tâm đổng lực dục giới.
-- Na cảnh: 2 sát na (tâm quả). Tâm na cảnh chỉ sinh trong lộ ngũ môn. Là các tâm quả dục giới: 8 tâm đại quả và 3 tâm quan sát. Do là dư sót của các tâm đổng lực, nên tâm đổng lực thọ nào thì tâm na cảnh thọ đó. Trường hợp đặc biệt: tục sinh bằng tâm quả thọ hỷ, thì tâm hộ kiếp bình nhật là thọ hỷ. Theo quy luật tâm pháp thọ ưu và thọ hỷ không thể gần kề nhau, mà giữa đó phải có tâm thọ xả. Nên nếu tâm đổng lực là tâm sân thọ ưu thì tâm na cảnh ngay sau đó không thể thọ ưu hay hỷ mà phải là tâm hộ kiếp xả, có vai trò làm trung gian cho thọ ưu và thọ hỷ. Trong trường hợp đó gọi là **tâm hộ kiếp khách**. Lưu ý tâm sân không có ở sắc giới và vô sắc giới.
+- Na cảnh: 2 sát na (tâm quả). Tâm na cảnh chỉ sinh trong lộ ngũ môn. Là các tâm quả dục giới: 8 tâm đại quả và 3 tâm quan sát. Do là dư sót của các tâm đổng lực, nên tâm đổng lực thọ nào thì tâm na cảnh thọ đó.
 
-[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[7 x ĐL]-[NC-NC]
+[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[7ĐL]-[2NC]
 
 ![](https://i.imgur.com/hLdOOek.png)
 
+**Tâm hộ kiếp khách**:
+- Cõi dục giới
+- Tục sinh bằng tâm thọ hỷ
+- Gặp cảnh rất tốt
+- Có đổng lực sân
+
+Đôi khi kể làm 3 điều kiện, khi đó gom 1 + 2 và gọi là tục sinh bằng tâm quả dục giới thọ hỷ.
+
+Khi tục sinh bằng tâm quả thọ hỷ, thì tâm hộ kiếp bình nhật là thọ hỷ. Theo quy luật tâm pháp thọ ưu và thọ hỷ không thể gần kề nhau, mà giữa đó phải có tâm thọ xả. Nên nếu tâm đổng lực là tâm sân thọ ưu thì tâm na cảnh ngay sau đó không thể thọ ưu hay hỷ mà phải là tâm hộ kiếp xả, có vai trò làm trung gian cho thọ ưu và thọ hỷ. Trong trường hợp đó gọi là **tâm hộ kiếp khách**. Lưu ý tâm sân không có ở sắc giới và vô sắc giới.
+
 2 lộ tâm không thể liên tục với nhau được. Giữa 2 lộ tâm phải có tâm hộ kiếp ở giữa.
 
-Lộ ngũ môn cảnh lớn: tương tự cảnh rất lớn, chỉ khác là:
+**Lộ ngũ môn cảnh lớn:** tương tự cảnh rất lớn, chỉ khác là:
 - Trường hợp 1:
   - Hữu phần: 2 sát na vừa qua
   - Na cảnh: 1 sát na
@@ -433,21 +445,21 @@ Lộ ngũ môn cảnh lớn: tương tự cảnh rất lớn, chỉ khác là:
   - Hữu phần: 3 sát na vừa qua
   - Không có tâm na cảnh
 
-[V1-V2-R-D]-[K5-NT-TT-QS-ĐĐ]-[7 x ĐL]-[NC]
+[2V-R-D]-[K5-NT-TT-QS-ĐĐ]-[7ĐL]-[NC]
 
-[V1-V2-V3-R-D]-[K5-NT-TT-QS-ĐĐ]-[7 x ĐL]
+[3V-R-D]-[K5-NT-TT-QS-ĐĐ]-[7ĐL]
 
 ![](https://i.imgur.com/ZDZed6T.png)
 
 ![](https://i.imgur.com/GXnaVxm.png)
 
-Lộ ngũ môn cảnh nhỏ: không có tâm đổng lực, do đó không có khả năng tạo nghiệp. Có 6 trường hợp, tính theo số lần sanh tâm vừa qua nhiều dần lên (từ 4 tới 9 sát na), tâm na cảnh ít dần đi.
+**Lộ ngũ môn cảnh nhỏ:** không có tâm đổng lực, do đó không có khả năng tạo nghiệp. Có 6 trường hợp, tính theo số lần sanh tâm vừa qua nhiều dần lên (từ 4 tới 9 sát na), tâm na cảnh ít dần đi.
 
-Lộ ngũ môn cảnh rất nhỏ: hoàn toàn không có tâm khách quan.
+**Lộ ngũ môn cảnh rất nhỏ:** hoàn toàn không có tâm khách quan.
 
 Tính theo các cõi, thì lộ ngũ môn:
 - Không có ở các cõi vô sắc giới
-- Ở cõi sắc giới, chỉ có lộ nhãn thức và nhĩ thức
+- Ở cõi sắc giới, chỉ có lộ nhãn thức và nhĩ thức, không có na cảnh. Do đó 8 tâm đại quả không có điều kiện để có trong cõi sắc giới.
 
 Các sát na tâm được gọi tên theo:
 - chức năng, việc làm
@@ -459,27 +471,33 @@ Các lộ tâm chia làm 2:
 - lộ tâm bình nhật
 - lộ tâm cận tử
 
-Lộ ngũ môn cận tử: chỉ có 2 cảnh rất lớn và lớn.
+**Lộ ngũ môn cận tử:** chỉ có 2 cảnh rất lớn và lớn.
 
-Cảnh rất lớn:
+**Cảnh rất lớn:**
 
-[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5 x ĐL]-[NC-NC]-[HP-Tử]---[Tục sinh]
+[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5ĐL]-[2NC]-[HP-Tử]---[Tục sinh]
 
-[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5 x ĐL]-[NC-NC]-[Tử]---[Tục sinh]
+[V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5ĐL]-[2NC]-[Tử]---[Tục sinh]
 
-Cảnh lớn:
+**Cảnh lớn:**
 
-[V-V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5 x ĐL]-[HP-Tử]---[Tục sinh]
+[2V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5ĐL]-[HP-Tử]---[Tục sinh]
 
-[V--VR-D]-[K5-NT-TT-QS-ĐĐ]-[5 x ĐL]-[Tử]---[Tục sinh]
+[V--VR-D]-[K5-NT-TT-QS-ĐĐ]-[5ĐL]-[Tử]---[Tục sinh]
 
 Sau tâm tục sinh là liên tục 14 sát na tâm hộ kiếp. Sau đó lộ tâm đầu tiên là lộ ý: V-R-D, sau đó là khai ý môn, rồi đến 7 tâm đổng lực là tâm tham, do chúng sinh vẫn còn tâm tham.
 
-[V-V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5 x ĐL]-[HP-Tử]---[Tục sinh]-[14 x H]-[V-R-D]-[KY]-[7 x ĐL tham]-[H]---Lộ tâm tiếp
+[2V-R-D]-[K5-NT-TT-QS-ĐĐ]-[5ĐL]-[HP-Tử]---[Tục sinh]-[14H]-[V-R-D]-[KY]-[7ĐL tham]-[H]---Lộ tâm tiếp
 
 Như vậy sau lộ ngũ môn cận tử luôn luôn là lộ ý môn. Lộ ý môn là lộ đầu tiên của kiếp sống.
 
 ### Lộ ý môn
+
+Cảnh biết không thông qua ngũ môn thì thuộc về ý môn.
+
+Có 2 trường hợp:
+- Sinh sau lộ ngũ môn (lưu ý là sau lộ ngũ môn, luôn là lộ ý môn).
+- Thuần lộ ý môn.
 
 Chia theo cường độ cảnh:
 1. Cảnh rất rõ
@@ -505,23 +523,23 @@ Lộ ý được chia làm 2:
 
 Cảnh rất rõ:
 
-[R-D]-[KY]-[7 x ĐL]-[2 x NC]-HP
+[R-D]-[KY]-[7ĐL]-[2NC]-HP
 
 Tâm khai ý môn còn làm việc đoán định.
 
 Cảnh rõ:
 
-[R-D]-[KY]-[7 x ĐL]-[2 x HP]
+[R-D]-[KY]-[7ĐL]-[2HP]
 
 Trong lộ ý, tâm hữu phần vừa qua chỉ sinh khi cảnh đó là từ cảnh ngũ (VD đang nhớ lại cảnh đã thấy, tiếng đã nghe). Trong trường hợp cảnh ý không phải từ cảnh ngũ (VD đang suy nghĩ về 1 định lý, về Tứ thánh đế, ...) thì không có tâm hữu phần vừa qua.
 
 Cảnh không rõ: kết thúc ở đoán định
 
-[R-D]-[3 x KY]-[2 x HP]
+[R-D]-[3KY]-[2HP]
 
 Cảnh cực vi: chỉ có tâm hữu phần, gọi là lộ tâm hư thoát:
 
-[R-D]-[3 x HP]
+[R-D]-[3HP]
 
 **Lộ ý bình nhật chiêm bao**
 
@@ -535,8 +553,4 @@ Các nhân sanh này đều là tâm phóng dật.
 
 Về biểu đồ thì giống lộ ý bình nhật thông thường, nhưng chỉ khác là không tạo quả. Và không phải chúng sinh nào cũng có chiêm bao, phải có thân sinh lý phù hợp, trong 1 số cõi thì không có chiêm bao.
 
-Hộ kiếp khách:
-- Tục sinh bằng tâm hỷ thọ
-- Đổng lực sân
-- Nếu là lộ ngũ phải là cảnh rất tốt
-- Trong cõi dục giới
+#### Lộ ý đặc biệt (lộ ý kiên cố)
