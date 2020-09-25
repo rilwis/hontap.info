@@ -553,4 +553,41 @@ Các nhân sanh này đều là tâm phóng dật.
 
 Về biểu đồ thì giống lộ ý bình nhật thông thường, nhưng chỉ khác là không tạo quả. Và không phải chúng sinh nào cũng có chiêm bao, phải có thân sinh lý phù hợp, trong 1 số cõi thì không có chiêm bao.
 
-#### Lộ ý đặc biệt (lộ ý kiên cố)
+### Lộ ý kiên cố
+
+#### Lộ tâm hóa thông
+
+Là lộ trình tâm của người chứng thiền và có thần thông. Vị đó phải chứng được ngũ thiền. Tâm định của vị đó rất mạnh mẽ và có thể ảnh hưởng tới thế giới xung quanh.
+
+[R-D]-[KY]-[2CH-TT-CT-Th]
+
+CH: Cận hành<br>
+TT: Thuận thứ<br>
+CT: Chuyển tộc<br>
+Th: Thiền<br>
+
+#### Lộ đắc đạo
+
+- Phải là người tam nhân
+- Có đầy đủ ba la mật
+- Nhận ra tam tướng: vô thường, khổ, vô ngã
+- Diệt 3 phiền não (sơ quả): thân kiến, hoài nghi, giới cấm thủ
+
+Nhờ diệt 3 phiền não, mà các vị ấy:
+
+- Không thể vi phạm 6 điều ác: 5 đại tội và xu hướng theo tà kiến
+- Tất cả các điều ác dẫn đến đọa xứ, vị ấy không thể làm
+- Không bao giờ che dấu lỗi lầm
+- Không bao giờ lui sụt đối với thiện pháp, không bao giờ phạm ngũ giới / học giới
+
+**Lộ tâm:**
+
+Người độn căn: [R-D]-[KY]-[CB-CH-TT-CT]-[TĐ-TQ-TQ]-[HP]
+
+Người lợi căn: [R-D]-[KY]-[CH-TT-CT]-[TĐ-TQ-TQ-TQ]-[HP]
+
+Đối với lchwngs đạo cao, không còn sát na Chuyển tộc mà chỉ còn sát na Vodana (Dũ Tịnh - tịnh hơn)
+
+[R-D]-[KY]-[CH-TT-DT]-[TĐ-TQ-TQ-TQ]-[HP]
+
+Đạo quả đã chứng thì không bao giờ mất. Đối với vị nào đã chứng được đạo quả cao thì không bao giờ chứng lại đạo quả thấp.
