@@ -555,6 +555,15 @@ Về biểu đồ thì giống lộ ý bình nhật thông thường, nhưng ch�
 
 ### Lộ ý kiên cố
 
+Bao gồm các lộ ý môn:
+
+- Thiền hiệp thế
+  - Chứng thiền
+  - Nhập thiền
+- Thiền siêu thế
+  - Chứng đạo quả
+  - Nhập thiền quả
+
 #### Lộ tâm hóa thông
 
 Là lộ trình tâm của người chứng thiền và có thần thông. Vị đó phải chứng được ngũ thiền. Tâm định của vị đó rất mạnh mẽ và có thể ảnh hưởng tới thế giới xung quanh.
@@ -591,3 +600,26 @@ Người lợi căn: [R-D]-[KY]-[CH-TT-CT]-[TĐ-TQ-TQ-TQ]-[HP]
 [R-D]-[KY]-[CH-TT-DT]-[TĐ-TQ-TQ-TQ]-[HP]
 
 Đạo quả đã chứng thì không bao giờ mất. Đối với vị nào đã chứng được đạo quả cao thì không bao giờ chứng lại đạo quả thấp.
+
+#### Lộ phản khán
+
+Ý nghĩa: xem xét lại, nhìn lại. Là lộ ý thông thường. Có 2 loại:
+
+- Phản khán chi thiền: các chi thiền theo tầng thiền
+- Phản khán đạo quả: nhiều phương diện:
+  - Đạo vừa đắc
+  - Quả vừa thành
+  - Niết Bàn vừa chứng
+  - Phiền não đã diệt (tầng thánh thứ 4 không còn phiền não nên không còn phương diện này)
+
+#### Lộ nhập thiền quả
+
+5 khả năng thuần thục:
+
+- Thuần thục sự tác ý
+- Thuần thục sự đắc định
+- Thuần thục sự nhập định
+- Thuần thục sự xuất định
+- Thuần thục sự phản khán
+
+Điều kiện nhập thiền quả: phải chứng thiền hiệp thế
