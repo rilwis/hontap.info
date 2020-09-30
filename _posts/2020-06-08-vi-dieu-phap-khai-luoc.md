@@ -595,11 +595,15 @@ Người độn căn: [R-D]-[KY]-[CB-CH-TT-CT]-[TĐ-TQ-TQ]-[HP]
 
 Người lợi căn: [R-D]-[KY]-[CH-TT-CT]-[TĐ-TQ-TQ-TQ]-[HP]
 
-Đối với lchwngs đạo cao, không còn sát na Chuyển tộc mà chỉ còn sát na Vodana (Dũ Tịnh - tịnh hơn)
+Đối với vị chứng đạo cao, không còn sát na Chuyển tộc mà chỉ còn sát na Vodana (Dũ Tịnh - tịnh hơn)
 
 [R-D]-[KY]-[CH-TT-DT]-[TĐ-TQ-TQ-TQ]-[HP]
 
 Đạo quả đã chứng thì không bao giờ mất. Đối với vị nào đã chứng được đạo quả cao thì không bao giờ chứng lại đạo quả thấp.
+
+CB: Chuẩn bị<br>
+TĐ: Tâm đạo<br>
+TQ: Tâm quả
 
 #### Lộ phản khán
 
@@ -623,3 +627,28 @@ Người lợi căn: [R-D]-[KY]-[CH-TT-CT]-[TĐ-TQ-TQ-TQ]-[HP]
 - Thuần thục sự phản khán
 
 Điều kiện nhập thiền quả: phải chứng thiền hiệp thế
+
+#### Lộ nhập thiền diệt (diệt thọ tưởng định)
+
+Là lộ nhập thiền của vị thánh A na hàm hoặc A la hán. Các ngài bỏ danh pháp ngay trong đời sống hiện tại. Để làm được điều đó, các ngài phải là vị thánh tam quả hoặc tứ quả.
+
+Gọi là diệt thọ tưởng định là vì trong khoảng thời gian nhập thiền thì giống vô tưởng, tức là không có danh pháp. Giống như giấc ngủ không chiêm bao, mộng mị là giấc ngủ ngon nhất, an lạc nhất.
+
+Điều kiện:
+
+- Phải là vị thánh tam quả hoặc tứ quả: do các phiền não của các ngài đã bị diệt rất nhiều (cụ thể là dục ái).
+- Phải chứng được phi tưởng phi phi tưởng xứ
+
+Dòng tâm thức của chúng sinh chỉ bị gián đoạn khi:
+
+- Sanh vào cõi vô tưởng, do nghiệp (cụ thể là tâm thiện ngũ thiền - tức là vị đó chứng được ngũ thiền và mong muốn sanh về cõi vô tưởng).
+- Nhập thiền diệt
+
+Lộ tâm:
+
+- Nhập sơ thiền (thiền chỉ tịnh)
+- Xuất sơ thiền
+- Xét tam tướng (vô thường, khổ, vô ngã) của sơ thiền (thiền minh sát)
+- Nhập, xuất nhị/tam/tứ/ngũ thiền
+- Nhập, xuất không vô biên xứ, vô sở hữu xứ
+- Chú nguyện
