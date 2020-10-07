@@ -564,7 +564,7 @@ Bao gồm các lộ ý môn:
   - Chứng đạo quả
   - Nhập thiền quả
 
-#### Lộ tâm hóa thông
+#### Lộ tâm hóa thông hay hiện thông
 
 Là lộ trình tâm của người chứng thiền và có thần thông. Vị đó phải chứng được ngũ thiền. Tâm định của vị đó rất mạnh mẽ và có thể ảnh hưởng tới thế giới xung quanh.
 
@@ -652,3 +652,38 @@ Lộ tâm:
 - Nhập, xuất nhị/tam/tứ/ngũ thiền
 - Nhập, xuất không vô biên xứ, vô sở hữu xứ
 - Chú nguyện
+
+#### Lộ viên tịch
+
+Là sự tịch tịnh hoàn toàn. Đối với vị thánh A la hán, sự tử là tịch diệt hoàn toàn, chấm dứt vòng luôn hồi sinh tử. Còn với chúng sinh và các vị thánh hữu học, thì khi tâm tử khởi lên, vẫn còn tiếp diễn vòng sinh tử.
+
+Có 2 trường hợp:
+
+- Viên tịch thông thường
+- Viên tịch kiên cố
+
+Có những vị chứng thiền hiệp thế, nhưng chưa chứng thiền siêu thế. Cũng có những vị tu tập thiền quán, chỉ đắc đạo quả mà không đắc thiền định. Còn có những vị đắc cả 2 loại thiền hiệp thế và siêu thế.
+
+Đối với các vị A la hán mà không chứng thiền hiệp thế thì các ngài chỉ Niết Bàn trong lộ ý thông thường. Đối với các vị thánh A na hàm và A la hán luôn mệnh chung ở lộ ý chứ không phải lộ ngũ. Nguyên nhân là do dục ái không còn nữa, nên không còn tác động đến các ngài trong giờ phút cuối cùng mà các ngài luôn hướng đến Niết Bàn. Riêng đối với vị A la hán, gọi là viên tịch, sau khi tâm tử khởi lên thì chấm dứt hoàn toàn sinh tử luân hồi.
+
+Lộ cận tử thông thường có 4 trường hợp tương ứng với có/không có na cảnh và xan hữu phần:
+
+- Đổng lực, na cảnh, xan hữu phần, tử
+- Đổng lực, na cảnh, tử
+- Đổng lực, xan hữu phần, tử
+- Đổng lực, tử
+
+Lộ viên tịch kiên cố, có 4 trường hợp:
+
+- Liên thiền: trước khi viên tịch, các ngài nhập thiền, khi xuất thiền các ngài mới viên tịch (liên = nối).
+- Liên thông: trước khi viên tịch, các ngài thực hiện thần thông rồi viên tịch (như trường hợp của ngài Ananda). Trước khi hoá thông, vị này nhập vào ngũ thiền, sau đó xuất thiền và chú nguyện rồi nhập vào lộ hiện thông, tâm thông sanh lên và tác động để ý muốn của các vị thành hiện thực. Sau đó có hoặc không có xan hữu phần rồi vị đó Niết Bàn.
+- Liên phản khán: giống như lộ phản khán thường: các ngài nhập thiền, xuất thiền, có các dòng đổng lực tâm để phản khán các chi thiền đó. R-D-KY-5ĐL-[HP]-NB.
+- Chí mạng (tột mạng): trước khi Niết Bàn, các ngài tận dụng để chứng A la hán để Niết Bàn. Gọi là chí mạng vì vừa đắc đạo xong thì các ngài Niết Bàn.
+
+Đối với các vị Chánh đẳng giác, các ngài luôn Niết Bàn bằng lộ viên tịch liên thiền. Theo thông lệ, các ngài nhập hết tất cả các tầng thiền xuôi, ngược. Trong cuộc đời của các ngài, có 2 lần nhập như vậy với tốc độ nhanh nhất là lúc các ngài chứng đạo quả và Niết Bàn. Và việc đó gây chấn động đối với những người chứng thiền.
+
+Đối với các vị chứng thiền, thời gian giữa các lần xuất, nhập thiền là vô số sát na hữu phần. Chỉ có 4 hạng người mới có số sát na hữu phần ít nhất
+
+- Đức Phật toàn giác: có 4 sát na hữu phần
+- Đức Phật độc giác
+- 2 vị chí thượng thanh văn (ngài Xá Lợi Phất và ngài Mục Kiền Liên)
