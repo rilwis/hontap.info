@@ -687,3 +687,31 @@ Lộ viên tịch kiên cố, có 4 trường hợp:
 - Đức Phật toàn giác: có 4 sát na hữu phần
 - Đức Phật độc giác
 - 2 vị chí thượng thanh văn (ngài Xá Lợi Phất và ngài Mục Kiền Liên)
+
+## Nghiệp (Kamma - Karma)
+
+Là hành động để lại quả. Nghiệp báo được hiểu là mối tương quan giữa nhân và quả (trong vấn đề thiện ác, đạo đức).
+
+Định nghĩa về Nghiệp được chính Đức Phật định nghĩa: Cetanaham bhikkhave kammam vadami - là chủ ý tạo tác.
+
+Nghiệp được chia theo 3: thân, khẩu, ý. Trong đó thân, khẩu nghiệp không thể tạo quả 1 mình, mà luôn phải có ý nghiệp đi chung. Cũng có trường hợp chỉ thuần túy ý nghiệp. Ý là quan trọng nhất, quy định thiện ác cho thân và khẩu.
+
+Nghiệp là sở hữu tư.
+
+Nghiệp được chia có 4 phương diện:
+
+- Mãnh lực
+- Chức năng
+- Thời gian trổ quả
+- Cảnh giới trổ quả
+
+### Mãnh lực của nghiệp
+
+Nói đến sức mạnh tạo quả của nghiệp, tức là tùy theo nghiệp đó cho quả lớn hay nhỏ, trong thời gian ngắn hay dài. Được chia làm 4 loại:
+
+1. Trọng nghiệp: những hành động thiện/ác cho quả lớn.
+1. Cận tử nghiệp: quả có 2: tái tục (cho cảnh giới tái sinh) và bình nhật. Cận tử nghiệp có ảnh hưởng đến tâm tái tục.
+1. Thường nghiệp: việc thiện/ác mà đã trở thành thói quen.
+1. Khinh thiểu nghiệp: việc thiện/ác cho quả rất nhỏ.
+
+Nói đến mãnh lực của nghiệp thì nói đến 2 phương diện người hành động (sở hữu tư của người đó) và đối tượng hành động.
