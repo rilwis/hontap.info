@@ -101,6 +101,12 @@ article,
 header {
 	margin-bottom: 2rem;
 }
+.entry-meta a {
+	font-size: 1rem;
+	font-style: italic;
+	color: var(--text-secondary);
+	margin-left: 16px;
+}
 .back {
 	text-transform: uppercase;
 	font-size: .875rem;
